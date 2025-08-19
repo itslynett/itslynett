@@ -1,50 +1,54 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itslynett/itslynett/main/banner.png" alt="Lynett Banner" width="100%" />
+  <img src="A_digital_graphic_design_banner_showcases_Lynett's.png" alt="Lynett Maina - Cloud Security & Full Stack Developer" width="100%" />
 </p>
 
-<!-- Intro -->
-<h1 align="center">👋 Hi, I'm <span style="color:#38bdf8">Lynett Maina</span></h1>
-<h3 align="center">🌐 Cybersecurity & Cloud Security Engineer | Future Full-Stack Dev</h3>
+<h1 align="center">🌐 Hey, I'm Lynett Maina</h1>
+<h3 align="center">Cloud Security Enthusiast | MERN & Django Developer | Cybersecurity Student</h3>
 
 ---
 
-### 🚀 About Me
-- 🔒 Passionate about **cyber defense, threat analysis & digital forensics**  
-- ☁️ Exploring **cloud security architectures** & secure software engineering  
-- 💻 On a **6-month journey** to become a full-stack developer  
-- 🎯 Always learning, always building, always securing!  
+## 🚀 About Me  
+🔹 Passionate about **Cloud Security** – currently deep diving into **IAM, Identity Federation, and Secure Architectures**.  
+🔹 Skilled in **MERN Stack (MongoDB, Express, React, Node.js)** and **Django Stack** for building scalable apps.  
+🔹 Interested in **Security Engineering, Cloud Compliance, and Forensics**.  
+🔹 Always experimenting with ways to combine **full-stack development & cybersecurity** into real-world solutions.  
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🛠️ Tech & Tools I Work With  
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-%2300C853.svg?style=for-the-badge&logo=HackTheBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Development-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Programming-JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Database-MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,mongodb,express,html,css,js,git,linux,aws,azure,gcp" />
 </p>
 
 ---
 
-### 📊 GitHub Highlights
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itslynett&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslynett&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itslynett&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslynett&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itslynett&theme=radical" alt="Profile Details"/>
 </p>
 
 ---
 
-### 🌍 Connect with Me
+## 📚 Currently Learning  
+- 🔐 **AWS IAM** – mastering permissions, federation, and secure policy design  
+- ☁️ **Cloud Security Best Practices** – working on hands-on labs for secure architectures  
+- 🛡️ **Security in Full-Stack Development** – integrating auth & encryption into apps  
+
+---
+
+## 🌍 Connect With Me  
 <p align="center">
-  <a href="mailto:mainalynett42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lynett-maina-cybersec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/itslynett"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lynett-maina-cybersec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:mainalynett42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/itslynett"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
-### ✨ Fun Fact
-💡 *“I don’t just protect systems — I design, build, and secure the future of technology.”*
+⚡ *"Blending development with security — building apps that don’t just run, but run securely."*  

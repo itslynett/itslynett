@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Lynett Maina - Cloud Security & Full Stack Developer" width="100%" />
-</p>
-
 <h1 align="center"> Hey, I'm Lynett Maina</h1>
 <h3 align="center">Cloud Security Enthusiast | MERN & Django Developer | Cybersecurity Student</h3>
 

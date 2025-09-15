@@ -1,50 +1,51 @@
-# Lynett Maina — Cybersecurity Student & Full-Stack Developer
-
-*"Building secure systems while writing code that matters."*
-
-I am a **Cybersecurity student** and a **MERN/Django Stack Developer** with a strong interest in creating applications that are not only functional, but also secure and resilient. My work is guided by the belief that technology should inspire confidence, not vulnerability.
+<h1 align="center">Lynett Maina</h1>
+<h3 align="center">Cybersecurity Student | Cloud Security Enthusiast | MERN & Django Developer</h3>
 
 ---
 
-## Who I Am
+## About Me  
+I am passionate about **Cloud Security** and **secure software development**, with a focus on blending **full-stack engineering** and **cybersecurity practices**. My work revolves around building scalable applications while ensuring they are resilient, compliant, and future-ready.  
 
-My journey began with curiosity about how systems fail and evolved into a commitment to building systems that endure. I thrive at the intersection of **development and security**, where innovation meets protection. For me, every line of code is an opportunity to deliver both value and trust.
-
----
-
-## What I Do
-
-* Develop full-stack applications with a security-first mindset
-* Apply cybersecurity principles to everyday software design
-* Explore the convergence of engineering, security, and innovation
-* Continuously pursue mastery through learning and experimentation
+- Exploring **IAM, Identity Federation, and Secure Architectures** in cloud environments  
+- Skilled in **MERN Stack** and **Django Stack** for robust web development  
+- Interested in **Security Engineering, Cloud Compliance, and Digital Forensics**  
+- Dedicated to bridging the gap between **development and security**  
 
 ---
 
-## GitHub Insights
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itslynett&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslynett&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=default)
-
----
-
-## Currently Exploring
-
-* Advanced web application security
-* DevSecOps practices
-* Cloud security fundamentals
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itslynett&theme=radical" alt="Profile Details"/>
+</p>
 
 ---
 
-## Philosophy
-
-*"Technology without security is fragile. Security without innovation is stagnant. I choose both."*
-
----
-
-## Connect
-
-[LinkedIn](https://https://www.linkedin.com/in/lynett-maina-cybersec/)  | [Email](mainalynett42@gmail.com)
+## Currently Learning  
+- **AWS IAM**: advanced permissions, federation, and secure policy design  
+- **Cloud Security Best Practices**: implementing secure architectures through hands-on labs  
+- **Security in Development**: integrating authentication, authorization, and encryption into applications  
 
 ---
 
+## Fun Facts  
+- Former **200m/400m track runner** — speed on the field, speed in code  
+- Creativity extends beyond code into **design and new ideas**  
+- Guided by the principle: *“Security is not a product, but a process.” – Bruce Schneier*  
+
+---
+
+## Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/lynett-maina-cybersec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:mainalynett42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/itslynett"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center"><i>"Blending development with security — building applications that don’t just run, but run securely."</i></p>

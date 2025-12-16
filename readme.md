@@ -1,6 +1,6 @@
 <h1 align="center">✨ Lynett Maina ✨</h1>
 <h3 align="center">
-Full-Stack Engineer · Cybersecurity & Forensics · Cloud Security
+Full-Stack Engineer · Cybersecurity & Digital Forensics 
 </h3>
 
 <p align="center">

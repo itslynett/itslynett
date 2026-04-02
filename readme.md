@@ -70,7 +70,7 @@ I care about:
 - Real-world usability  
 - Systems that don’t break under pressure  
 
----
+
 
 ## 💼 In Motion
 
@@ -82,7 +82,7 @@ I care about:
 > Rotating across:
 - IT Support & Systems Reliability  
 - Cybersecurity (Sophos · Octopus)  
-- Interactive CMS Development  
+- Interactive CMS Development and many other assigned tasks 
 
 Here’s what that taught me:
 > Tech is never abstract.  
@@ -113,8 +113,7 @@ focus = [
 ---
 
 ## 🌱 Beyond Code
-
-- Mentoring upcoming cybersecurity students  
+ 
 - Community-driven impact work  
 - 200m & 400m sprinter 🏃🏽‍♀️  
 
@@ -137,7 +136,7 @@ From the track → to the terminal.
   </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Security is not a feature — it’s the foundation.</i>

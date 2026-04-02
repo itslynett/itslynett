@@ -30,7 +30,7 @@ I build **systems that scale, protect, and outlast failure.**
 
 
 
-## ⚡ Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,django,fastapi,flask,mongodb,postgres,mysql,git,linux" />
@@ -38,7 +38,7 @@ I build **systems that scale, protect, and outlast failure.**
 
 
 
-## 🔐 Security Mindset
+## Security Mindset
 
 ```bash
 > security != feature
@@ -55,7 +55,7 @@ Every system I touch is built with one question in mind:
 
 
 
-## 🚀 What I Build
+##  What I Build
 
 ```yaml
 systems:
@@ -72,7 +72,7 @@ I care about:
 
 
 
-## 💼 In Motion
+## In Motion
 
 **SynthaHub**  
 > Building secure, scalable, and intuitive systems  
@@ -90,7 +90,7 @@ Here’s what that taught me:
 
 
 
-## 🧠  Explored
+##  Explored
 
 ```python
 focus = [
@@ -103,16 +103,14 @@ focus = [
 
 
 
-## 📊 GitHub Pulse
+## GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itslynett&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslynett&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itslynett&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslynett&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" height="160"/>
 </p>
 
----
-
-## 🌱 Beyond Code
+##  Beyond Code
  
 - Community-driven impact work  
 - 200m & 400m sprinter 🏃🏽‍♀️  

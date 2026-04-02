@@ -1,58 +1,105 @@
 <h1 align="center">✨ Lynett Maina ✨</h1>
-<h3 align="center">
-Full-Stack Engineer · Cybersecurity & Digital Forensics 
-</h3>
+<h3 align="center">Full-Stack Engineer · Cybersecurity · Digital Forensics</h3>
 
 <p align="center">
-I don’t just build applications — I design <b>secure systems that endure</b>.
+  <b>I build systems that don’t just work — they endure.</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&lines=Secure+Systems+Designer;Full-Stack+Engineer;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building" />
 </p>
 
 ---
 
-## 👩🏽‍💻 About Me
+## 👩🏽‍💻 Who Am I
 
-I’m a **Full-Stack Developer** with a deep-rooted passion for **cybersecurity, digital forensics, and secure system design**.  
-Currently pursuing a **BSc in Information Systems & Technology (Forensics & Cybercrime)** at **USIU–Africa**.
+```diff
++ Engineer by craft
++ Security thinker by instinct
++ Builder by obsession
+```
 
-I live at the intersection of **engineering and security** — where performance meets protection, and scale never compromises trust.  
-My north star: **systems that work, scale, and stay resilient.**
+I’m **Lynett Maina** — a Full-Stack Developer exploring the space where  
+**engineering meets security, and systems meet reality**.
+
+Currently pursuing a **BSc in Information Systems & Technology  
+(Forensics & Cybercrime)** at **USIU–Africa**.
+
+I don’t chase trends.  
+I build **systems that scale, protect, and outlast failure.**
 
 ---
 
-## 🧠 Core Stack
+## ⚡ Tech Arsenal
 
-### 🌐 Frontend
-`Next.js` · `React` · `Vue.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,django,fastapi,flask,mongodb,postgres,mysql,git,linux" />
+</p>
 
-### ⚙️ Backend
-`Node.js` · `Express`  
-`Django` · `FastAPI` · `Flask`
+---
 
-### 🗄️ Databases
-`MongoDB` · `PostgreSQL` · `MySQL`
+## 🔐 Security Mindset
 
-### 🔐 Security & Cloud
-- Secure authentication & authorization  
-- Cloud IAM & access control  
-- Security-first development practices  
-- Digital forensics fundamentals  
+```bash
+> security != feature
+> security == foundation
+```
+
+- Authentication & Authorization Systems  
+- Cloud IAM & Access Control  
+- Secure Backend Architecture  
+- Digital Forensics Fundamentals  
+
+Every system I touch is built with one question in mind:  
+**“What happens when this is attacked?”**
 
 ---
 
 ## 🚀 What I Build
 
-- End-to-end **full-stack applications** — idea → deployment  
-- **Secure, scalable backend architectures**  
-- Robust **auth, access control, and data protection layers**  
-- Real-world systems that **bridge development and cybersecurity**
+```yaml
+systems:
+  - full_stack_apps: idea → production
+  - backend_architecture: scalable & resilient
+  - auth_systems: secure by design
+  - real_world_platforms: built for impact
+```
+
+I care about:
+- Clean architecture  
+- Real-world usability  
+- Systems that don’t break under pressure  
 
 ---
 
-## 📚 Currently Exploring
+## 💼 In Motion
 
-- Advanced **Cloud IAM** & identity federation  
-- **Secure cloud architectures** at scale  
-- Embedding security into modern dev workflows (DevSecOps mindset)
+**SynthaHub**  
+> Building secure, scalable, and intuitive systems  
+> where engineering meets real-world impact  
+
+**Royal Media Services (RMS)**  
+> Rotating across:
+- IT Support & Systems Reliability  
+- Cybersecurity (Sophos · Octopus)  
+- Interactive CMS Development  
+
+Here’s what that taught me:
+> Tech is never abstract.  
+> Every system touches people. Every bug has a story.
+
+---
+
+## 🧠 Currently Exploring
+
+```python
+focus = [
+  "Cloud IAM & Identity Federation",
+  "Secure Cloud Architectures",
+  "DevSecOps",
+  "Modern Threat Landscapes"
+]
+```
 
 ---
 
@@ -65,27 +112,32 @@ My north star: **systems that work, scale, and stay resilient.**
 
 ---
 
-## 🌱 Beyond the Terminal
+## 🌱 Beyond Code
 
-- Mentors aspiring cybersecurity students  
-- Active in community service  
-- 200m & 400m track runner — discipline in motion 🏃🏽‍♀️  
+- Mentoring upcoming cybersecurity students  
+- Community-driven impact work  
+- 200m & 400m sprinter 🏃🏽‍♀️  
+
+Discipline carries everywhere.  
+From the track → to the terminal.
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lynett-maina-cybersec">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mainalynett42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/itslynett">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>Security is not a feature — it’s the foundation.</i>

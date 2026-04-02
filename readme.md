@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&lines=Secure+Systems+Designer;Full-Stack+Engineer;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building" />
 </p>
 
----
+
 
 ## 👩🏽‍💻 Who Am I
 
@@ -28,7 +28,7 @@ Currently pursuing a **BSc in Information Systems & Technology
 I don’t chase trends.  
 I build **systems that scale, protect, and outlast failure.**
 
----
+
 
 ## ⚡ Tech Arsenal
 
@@ -36,7 +36,7 @@ I build **systems that scale, protect, and outlast failure.**
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,django,fastapi,flask,mongodb,postgres,mysql,git,linux" />
 </p>
 
----
+
 
 ## 🔐 Security Mindset
 
@@ -53,7 +53,7 @@ I build **systems that scale, protect, and outlast failure.**
 Every system I touch is built with one question in mind:  
 **“What happens when this is attacked?”**
 
----
+
 
 ## 🚀 What I Build
 
@@ -88,9 +88,9 @@ Here’s what that taught me:
 > Tech is never abstract.  
 > Every system touches people. Every bug has a story.
 
----
 
-## 🧠 Currently Exploring
+
+## 🧠  Explored
 
 ```python
 focus = [
@@ -101,7 +101,7 @@ focus = [
 ]
 ```
 
----
+
 
 ## 📊 GitHub Pulse
 
@@ -121,7 +121,7 @@ focus = [
 Discipline carries everywhere.  
 From the track → to the terminal.
 
----
+
 
 ## 🔗 Connect
 
